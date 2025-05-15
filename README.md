@@ -8,9 +8,9 @@
 ##### Saya berharap keahlian yang saya pelajari dapat bermanfaat di dunia kerja dan memberikan kontribusi positif, baik di lingkungan pemerintahan maupun masyarakat luas.
 
 ---
- ##### jika ingin tau lebi bisa di lihat di cv saya
- ![cv] (https://github.com/ficky28/portofolio-ficky-firmansyah/blob/main/CV-PDF/CV-ficky.pdf).
- ##### atau github saya
- ![github] (https://github.com/kyfirman28).
+ ##### jika ingin tau lebi bisa di lihat di cv saya:
+ ![cv](https://github.com/ficky28/portofolio-ficky-firmansyah/blob/main/CV-PDF/CV-ficky.pdf).
+ ##### atau github saya:
+ ![github](https://github.com/kyfirman28).
 
   trimakasih
