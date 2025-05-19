@@ -1,8 +1,5 @@
 # portofolio-ficky-firmansyah
 ---
-![background] (https://github.com/ficky28/portofolio-ficky-firmansyah/blob/main/Intro%20Youtube%20Teknologi%20Geometris%20Biru%20Kehijauan%20dan%20Putih.gif)
-
----
 
 ##### Saya adalah mahasiswa Universitas Islam Negeri (UIN) Sultan Thaha Saifuddin Jambi, dari Program Studi Sistem Informasi. Saya memiliki minat yang besar dalam bidang teknologi informasi, khususnya dalam pengembangan sistem, pengolahan data, dan solusi digital yang dapat membantu menyelesaikan berbagai permasalahan.
 
