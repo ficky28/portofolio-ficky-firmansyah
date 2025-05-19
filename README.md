@@ -1,5 +1,7 @@
 # portofolio-ficky-firmansyah
 ---
+![backround](https://github.com/ficky28/portofolio-ficky-firmansyah/blob/main/background.gif)
+
 
 ##### Saya adalah mahasiswa Universitas Islam Negeri (UIN) Sultan Thaha Saifuddin Jambi, dari Program Studi Sistem Informasi. Saya memiliki minat yang besar dalam bidang teknologi informasi, khususnya dalam pengembangan sistem, pengolahan data, dan solusi digital yang dapat membantu menyelesaikan berbagai permasalahan.
 
